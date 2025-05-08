@@ -122,8 +122,8 @@
             "enabled": false
         }
     },
-    "appVersion": "0.0.3",
-    "buildNumber": 1,
+    "appVersion": "0.0.4",
+    "buildNumber": 2,
     "runtimeUrl": "https://backgroundlocationtest-sandbox.mxapps.io/",
     "hermesEnabled": false,
     "cookieEncryptionEnabled": false
