@@ -1,0 +1,10 @@
+PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
+
+BUNDLE_DISPLAY_NAME = Background Location Test
+BUNDLE_IDENTIFIER = myapp.backgroundlocationtest
+
+RUNTIME_URL = https:\/\/backgroundlocationtest-sandbox.mxapps.io/
+
+PRODUCT_NAME = BackgroundLocat
+
+HERMES_ENABLED = NO
