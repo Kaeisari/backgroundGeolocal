@@ -3,6 +3,7 @@ package com.mendix.nativetemplate;
 import android.app.Activity;
 
 import androidx.annotation.NonNull;
+import com.marianhello.bgloc.react.BackgroundGeolocationPackage;  // <--- Import Package
 
 import com.facebook.react.PackageList;
 import com.facebook.react.ReactPackage;
@@ -27,6 +28,8 @@ public class MainApplication extends MendixReactApplication {
 
         // Packages that cannot be autolinked yet can be added manually here, for example:
         // packages.add(new MyReactNativePackage());
+         new BackgroundGeolocationPackage() // <---- Add the Package
+
         packages.add(new SplashScreenReactPackage());
 
         return packages;
