@@ -158,7 +158,6 @@ dependencies {
 
     androidTestImplementation("com.wix:detox:+")  { transitive = true }
     androidTestImplementation "junit:junit:4.12"
-    compile project(':@mauron85_react-native-background-geolocation')
 
 }
 
