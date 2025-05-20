@@ -1,6 +1,6 @@
 {
     "react-native-view-shot": "3.1.2",
-    "@gennadysx/react-native-background-geolocation": "^1.0.1",
+    "@darron1217/react-native-background-geolocation": "^0.6.7",
     "@react-native-community/geolocation": "2.0.2",
     "react-native-geolocation-service": "5.2.0"
 }
